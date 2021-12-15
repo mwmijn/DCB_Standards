@@ -1,37 +1,7 @@
 # Media Delivery Workflows
 
 ##  Partners delivering their own media to dev team
-<div class="mermaid">
-graph TD
-
-%%% NODE DEFINITIONS
-
-%% media intake node
-id1{incoming media}
-
-%% subnodes for media types
-id1.1(images)
-id1.2(video)
-id1.3(text)
-
-%% media destination 01
-id2[upload files to <br/> appbox
-id2.1[email as attachment to Max]
-id2.2[email Max to tell them what the file is]
-
-%% consent
-id3[Max replies to confirm receipt <br> and file metadata as well <br>  as to request formal consent <br> to archive and share data]
-
-%% conclusion
-id4{partner returns <br> signed consent form <br> and Max files assets in the <br> appropriate project <br> folders}
-%% diagram
-id1 --> id1.1 & id1.3 & id1.2
-id1.1 & id1.2 --> id2 --> id2.2
-id1.3 --> id2.1
-id2.1 & id2.2 --> id3
-id3 --> id4
-</div>
-
+![image](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcblxuJSUlIE5PREUgREVGSU5JVElPTlNcblxuJSUgbWVkaWEgaW50YWtlIG5vZGVcbmlkMXtzdGFrZWhvbGRlciBlbWFpbHMgTWF4IDxicj4gdG8gcmVxdWVzdCBtZWRpYX1cblxuJSUgc3Vibm9kZXMgZm9yIG1lZGlhIHR5cGVzXG5pZDEuMShNYXggZmluZHMgbWVkaWEgd2hpY2ggPGJyPiBtYXRjaGVzIHRoZSByZXF1ZXN0KVxuaWQxLjIoTWF4IGRvZXMgbm90IGZpbmQgbWF0Y2hpbmcgbWVkaWEpXG5cbiUlIG1lZGlhIGRlc3RpbmF0aW9uIDAxXG5pZDJbTWF4IHNlbmRzIGFjY2VzcyBjb3BpZXMgb2YgdGhlIDxicj4gbWVkaWEgdG8gY29uZmlybSB0aGF0IGl0IG1hdGNoZXMgPGJyPiB0aGUgc3Rha2Vob2xkZXIncyByZXF1ZXN0XVxuaWQyLjF7TWF4IGFwb2xhZ2V0aWNhbGx5IDxicj4gZW1haWxzIHN0YWtlaG9sZGVyfVxuaWQyLjJbc3Rha2Vob2xkZXIgYXBwcm92ZXMgc3BlY2lmaWMgZmlsZXNdXG5pZDIuM1tzdGFrZWhvbGRlciBkb2VzIG5vdCBhcHByb3ZlIGFueSBmaWxlc11cbmlkMi40W01heCBmaWxlcyBhcHByb3ByaWF0ZSA8YnI-IHBhcGVyd29yayBmb3IgcHVibGljYXRpb25dXG5cbiUlIGNvbmNsdXNpb25cbmlkNHtNYXggZmlsZXMgYXNzZXRzIGluIHRoZSA8YnI-IGFwcHJvcHJpYXRlIHByb2plY3QgPGJyPiBmb2xkZXJzLn1cblxuJSUgZGlhZ3JhbVxuaWQxIC0tPiBpZDEuMSAmIGlkMS4yXG5pZDEuMSAtLT4gaWQyIC0tPiBpZDIuMiAmIGlkMi4zIFxuaWQxLjIgLS0-IGlkMi4xXG5pZDIuMiAtLT4gaWQyLjRcbmlkMi4zIC0tPiBpZDIuMVxuaWQyLjQgLS0-IGlkNFxuIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
 <br>
 
 --- 
