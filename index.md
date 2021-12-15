@@ -1,3 +1,18 @@
+# Site Index
+<br>
+---
+
+## Standards
+[File Naming Standard]
+[Communication Standard]
+[Data Intake Workflow]
+<br>
+---
+
+## Wiki
+[Terms]
+[Index of Technologies]
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mwmijn/DCB_Standards/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
