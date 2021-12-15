@@ -1,3 +1,8 @@
+	---
+title: File Naming Conventions
+layout: template
+filename: File_Naming_Conventions.md
+--- 
 	# Abstract
 	This documents is intended to be a central guide for the naming and management of files for this project. With such a large number of overlapping variables and stakeholders, it's crucial that we appropriately title files such that there can be no mistake of their origin or their purpose. 
 
