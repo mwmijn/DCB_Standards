@@ -1,17 +1,21 @@
 # Site Index
+
 <br>
 ---
 
 ## Standards
-[File Naming Standard]
-[Communication Standard]
-[Data Intake Workflow]
+
+[File Naming Standard] <br>
+[Communication Standard] <br>
+[Data Intake Workflow] <br>
+
 <br>
 ---
 
 ## Wiki
-[Terms]
-[Index of Technologies]
+
+[Terms] <br>
+[Index of Technologies] <br>
 
 ## Welcome to GitHub Pages
 
