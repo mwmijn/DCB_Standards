@@ -1,7 +1,7 @@
 # Media Delivery Workflows
 
 ##  Partners delivering their own media to dev team
-``` mermaid
+<div class="mermaid">
 graph TD
 
 %%% NODE DEFINITIONS
@@ -30,7 +30,8 @@ id1.1 & id1.2 --> id2 --> id2.2
 id1.3 --> id2.1
 id2.1 & id2.2 --> id3
 id3 --> id4
-```
+</div>
+
 <br>
 
 --- 
