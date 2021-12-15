@@ -5,7 +5,7 @@
 
 ## Standards
 
-[File Naming Standard] <br>
+[File Naming Standard](https://mwmijn.github.io/DCB_Standards/File_Naming_Conventions.html) <br>
 [Communication Standard] <br>
 [Data Intake Workflow] <br>
 
